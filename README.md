@@ -57,7 +57,7 @@ STAR COFFEE SHOP offers a diverse menu of beverages, each with a unique flavor p
 
 4. Explore and enjoy the flexibility and variety STAR COFFEE SHOP offers in a virtual environment.
 
-Benefits
+## Benefits
 Educational Tool: 
 Understand the logic behind interactive menu-driven applications.
 Practical Application: Simulate real-world coffee shop ordering scenarios.
